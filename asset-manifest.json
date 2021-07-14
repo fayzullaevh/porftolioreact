@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13bd9923.chunk.css",
+    "main.js": "/static/js/main.1827a6cc.chunk.js",
+    "main.js.map": "/static/js/main.1827a6cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dfde1fd2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dfde1fd2.js.map",
+    "static/js/2.5f61572e.chunk.js": "/static/js/2.5f61572e.chunk.js",
+    "static/js/2.5f61572e.chunk.js.map": "/static/js/2.5f61572e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.13bd9923.chunk.css.map": "/static/css/main.13bd9923.chunk.css.map",
+    "static/js/2.5f61572e.chunk.js.LICENSE.txt": "/static/js/2.5f61572e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/desk.9fe49dd7.jpg",
+    "static/media/Resume.css": "/static/media/nordwood.ed0ba931.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfde1fd2.js",
+    "static/js/2.5f61572e.chunk.js",
+    "static/css/main.13bd9923.chunk.css",
+    "static/js/main.1827a6cc.chunk.js"
+  ]
+}
